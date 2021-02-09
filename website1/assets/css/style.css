@@ -1,3 +1,5 @@
-body{
-    background: #BDBDBD;
+.h1{ font-size: 130px !important;
+background-color: beige;
 }
+.h2{ font-size: 70px !important;
+background-color: beige;}
